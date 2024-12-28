@@ -1,4 +1,4 @@
-package com.yajatkaul.backend.session;
+package com.yajatkaul.backend.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
