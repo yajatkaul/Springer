@@ -9,7 +9,7 @@ import org.springframework.data.mongodb.core.mapping.Field;
 public class User {
     @Id
     private String id;
-    @Field(name = "Name")
+    @Field(name = "name")
     @Indexed(unique = true)
     private String userName;
     private String password;
