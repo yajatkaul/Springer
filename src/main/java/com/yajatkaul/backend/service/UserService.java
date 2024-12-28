@@ -1,7 +1,7 @@
 package com.yajatkaul.backend.service;
 
-import com.example.demo.model.User;
-import com.example.demo.repository.UserRepository;
+import com.yajatkaul.backend.model.User;
+import com.yajatkaul.backend.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
 @Service
